@@ -20,3 +20,6 @@ it contains an element that appears more than 𝑛/2 times. O(nlogn) using Divid
 
 ## Maximum Pairwise Product
 Find the maximum product of two distinct numbers in a sequence of non-negative integers.
+
+## change money using Dynamic programming
+Find the minimum coins to change a given money.and you can choose also denominations.
