@@ -23,3 +23,15 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 
 ## change money using Dynamic programming
 Find the minimum coins to change a given money.and you can choose also denominations.
+
+## edit_distance using Dynamic Programming
+The edit distance between two strings is the minimum number of operations (insertions, deletions, and
+substitutions of symbols) to transform one string into another.It is a measure of similarity of two strings.
+Edit distance has applications, for example, in computational biology, natural language processing, and spell
+checking. Your goal in this problem is to compute the edit distance between two strings.
+
+## primitive calculator using dp
+You are given a primitive calculator that can perform the following three operations with
+the current number 𝑥: multiply 𝑥 by 2, multiply 𝑥 by 3, or add 1 to 𝑥. Your goal is given a
+positive integer 𝑛, find the minimum number of operations needed to obtain the number 𝑛
+starting from the number 1.
